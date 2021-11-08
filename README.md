@@ -10,6 +10,7 @@ This project will take all the input from user to generate readme.md file which 
 
 ## Important Links
 Github Repositories: https://github.com/bajraroshan/ReadmeGen
+Example Readme Generated from application: https://github.com/bajraroshan/ReadmeGen/tree/master/readme
 
 ## Dependencies 
 Inquirer
