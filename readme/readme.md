@@ -1,9 +1,9 @@
 
-  # Readme Generator
+  # ReadME Generator
 
-  ![License](https://img.shields.io/badge/Licence-GNU-blue)
+  ![License](https://img.shields.io/badge/Licence-MIT-blue)
 
-  Basically this is a readme.md generator which saves a lot of time by just entering the necessary decription and answers
+  This project will take all the input from user to generate readme.md file which can be used in for documentation, presentation, websites etc.
   
 ## Table of Contents 
 - [Installation](#Installation)
@@ -24,11 +24,11 @@ npm install
 ## Usage 
 Run this code to run the application:
 ```
-node index.ja
+node index.js
 ```
 
 ## Contributions
-Roshan Bajracharya, Alisha Shakya and Ersa Shakya Bajracharya
+Roshan Bajracharya and friends
 
 ## Test
 Run this code to test:
@@ -40,7 +40,7 @@ npm test
 If you have any questions please contact me either (https://github.com/bajraroshan) or via email at bajraroshan@gmail.com 
     
 ## License 
-This application is covered under GNU. 
+This application is covered under MIT. 
 
 ## Author 
 <a href="https://www.github.com/bajraroshan">Roshan Bajracharya</a><br>
