@@ -9,7 +9,7 @@ This project will take all the input from user to generate readme.md file which 
 [![ReadME Generator Walkthrough Video](https://i9.ytimg.com/vi/msC6DdSiEVg/mq3.jpg?sqp=CKS8pIwG&rs=AOn4CLBlpZAgzcZE0_oe4cgQ_ocDgWPbZA)](https://youtu.be/msC6DdSiEVg)
 
 ## Important Links
-Github Repositories: https://github.com/bajraroshan/bajraroshan.github.io
+Github Repositories: https://github.com/bajraroshan/ReadmeGen
 
 ## Dependencies 
 Inquirer
